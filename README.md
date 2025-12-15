@@ -5,6 +5,15 @@ Users can choose services, select nearby laundries, schedule pickup & delivery, 
 
 ---
 
+## 🔗 Related Application
+
+### 📱 Laundry Admin App
+
+👉 **GitHub Repository:**
+[https://github.com/amiraslam327/laundry-app-admin]
+
+---
+
 ## 🚀 Features
 
 * 📍 Nearby laundries with discounts
