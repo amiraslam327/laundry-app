@@ -33,8 +33,8 @@ Users can choose services, select nearby laundries, schedule pickup & delivery, 
 
 <p align="center">
   <img src="screenshots/home.png" width="230">
+  <img src="screenshots/home2.png" width="230">
   <img src="screenshots/services.png" width="230">
-  <img src="screenshots/laundries.png" width="230">
 </p>
 
 <p align="center">
