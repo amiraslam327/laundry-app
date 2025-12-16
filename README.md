@@ -38,19 +38,21 @@ Users can choose services, select nearby laundries, schedule pickup & delivery, 
 </p>
 
 <p align="center">
-  <img src="screenshots/profile.png" width="230">
   <img src="screenshots/select_items.png" width="230">
   <img src="screenshots/cart.png" width="230">
+  <img src="screenshots/cart2.png" width="230">
 </p>
 
 <p align="center">
   <img src="screenshots/order_summary.png" width="230">
-  <img src="screenshots/payment.png" width="230">
+  <img src="screenshots/order_summary2.png" width="230">
   <img src="screenshots/success.png" width="230">
 </p>
 
 <p align="center">
   <img src="screenshots/order_details.png" width="230">
+  <img src="screenshots/order_details2.png" width="230">
+  <img src="screenshots/profile.png" width="230">
 </p>
 
 ---
